@@ -44,7 +44,7 @@ author:		 Will Allen (aka) WAWEEDMAN
          <pos>0.002 0.897</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>000000</color>
-         <fontPath>./_inc/fonts/wii.ttf</fontPath>
+         <fontPath>./assets/wii.ttf</fontPath>
 	     <fontSize>0.02</fontSize>
       </text>
 
